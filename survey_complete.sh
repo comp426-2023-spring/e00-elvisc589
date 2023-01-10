@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=contented wolf car orange 777777
+EXAMCODE=624822848
 
 echo ${EXAMCODE}
